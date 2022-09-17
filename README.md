@@ -1,6 +1,6 @@
 # Meu primeiro projeto Gamer
 
-![preview](./.github/preview.png)
+![preview](./github/Preview.png)
 
 ## Tecnologias ultilizadas
 
