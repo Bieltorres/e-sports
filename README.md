@@ -1,8 +1,8 @@
-# Meu primeiro projeto Gamer
+Meu primeiro projeto Gamer
 
 ![preview](./github/Preview.png)
 
-## Tecnologias ultilizadas
+Tecnologias ultilizadas
 
 - HTML
 - CSS
@@ -10,7 +10,7 @@
 
 [Clique aqui para acessar](https://bieltorres.github.io/e-sports/)
 
-## Contato
+Contato
 
 gt75135@gmail.com
 wpp: 32 9 9105-1145
